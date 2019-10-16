@@ -1,4 +1,13 @@
-section.head{
+h2.head{
   color: blue;
   text-align: center;
+  margin: 0px;
+}
+
+h1.head{
+  margin: 0px;
+}
+
+body{
+  margin: 0px
 }
