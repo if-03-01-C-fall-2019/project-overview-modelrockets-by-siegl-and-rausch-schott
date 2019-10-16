@@ -1,11 +1,33 @@
-h2.head{
-  color: blue;
+.head {
   text-align: center;
-  padding: 1em;
+}
+
+.head h1{
+  color: blue;
   margin: 0;
 }
 
-h1.head{
-  padding: 1em;
-  margin: 0;
+.head h3 {
+  margin: 0px;
+}
+
+article {
+background-color: lightgray;
+
+  border-width: medium;
+  border-color: gray;
+  border-style: solid;
+  border-radius: 3px;
+
+  padding-left: 3%;
+  padding-right: 3%;
+
+  margin-bottom: 2%;
+}
+
+article #answer {
+  font-size: 20px;
+  padding-left: 2%;
+
+  text-align: center;
 }
