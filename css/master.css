@@ -1,13 +1,11 @@
 h2.head{
   color: blue;
   text-align: center;
-  margin: 0px;
+  padding: 1em;
+  margin: 0;
 }
 
 h1.head{
-  margin: 0px;
-}
-
-body{
-  margin: 0px
+  padding: 1em;
+  margin: 0;
 }
