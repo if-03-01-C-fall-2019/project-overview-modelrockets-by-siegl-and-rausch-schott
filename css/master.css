@@ -1,16 +1,27 @@
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+
+background-image: url("img/bg-img.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 .head {
   text-align: center;
-  background-color: red;
+  background-color: lightgray;
   margin-bottom: 50px;
 }
 
 .head h1{
-  color: white;
+  color: black;
   margin: 0;
 }
 
 .head h3 {
-color: lightgray;
+color: black;
   margin: 0px;
 }
 
@@ -19,9 +30,17 @@ color: lightgray;
 }
 
 .foot{
-  background-color:
+  background-color: darkgray;
+
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
+.foot p {
+  text-align: center;
+  font-size: 30px;
+  margin:0px;
+}
 
 article {
 background-color: lightgray;
@@ -38,6 +57,7 @@ background-color: lightgray;
   margin-left: 20%;
   margin-right: 20%;
 }
+
 article h3{
   font-size: 25px;
 }
@@ -49,6 +69,8 @@ article #answer {
 }
 
 article img {
+
+
   padding-left: 60%;
   width: 25%;
   height: 25%;
