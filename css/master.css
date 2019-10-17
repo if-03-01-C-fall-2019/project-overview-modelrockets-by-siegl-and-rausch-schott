@@ -1,6 +1,8 @@
 @font-face {
-  font-family: myFirstFont;
-  src: url("font/Comfortaa-Regular.ttf");
+  font-family: Comfortaa;
+  src:url("font/Comfortaa-Regular.ttf") format("truetype"),
+  url("font/Comfortaa-Light.ttf") format("truetype"),
+  url("font/Comfortaa-Bold.ttf") format("truetype");
 }
 
 body{
@@ -18,7 +20,7 @@ body{
   color: white;
   background-color: #0b0b0b;
   margin-bottom: 50px;
-  font-family: myFirstFont;
+  font-family: Comfortaa;
 }
 
 .head h1{
