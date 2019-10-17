@@ -1,6 +1,15 @@
 @font-face {
-  font-family: myFirstFont;
-  src: url("font/Comfortaa-Regular.ttf");
+    font-family: 'comfortaaregular';
+    src: url('font/comfortaa-regular-webfont.woff2') format('woff2'),
+         url('font/comfortaa-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'my font';
+  src: url('font/Comfortaa-Regular.ttf');
 }
 
 body{
@@ -18,7 +27,7 @@ body{
   color: white;
   background-color: #0b0b0b;
   margin-bottom: 50px;
-  font-family: myFirstFont;
+  font-family: 'my font';
 }
 
 .head h1{
