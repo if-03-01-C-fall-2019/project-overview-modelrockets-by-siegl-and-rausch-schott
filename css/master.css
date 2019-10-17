@@ -8,8 +8,8 @@
 }
 
 @font-face {
-  font-family: 'my font';
-  src: url('font/Comfortaa-Regular.ttf');
+  font-family: 'myFont';
+  src: url('Comfortaa-Regular.ttf');
 }
 
 body{
@@ -27,7 +27,7 @@ body{
   color: white;
   background-color: #0b0b0b;
   margin-bottom: 50px;
-  font-family: 'my font';
+  font-family: 'myFont';
 }
 
 .head h1{
