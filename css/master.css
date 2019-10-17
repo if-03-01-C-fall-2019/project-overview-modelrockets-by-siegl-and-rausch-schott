@@ -1,3 +1,8 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url("font/Comfortaa-Regular.ttf");
+}
+
 body{
   margin-top: 0px;
   margin-left: 0px;
@@ -42,9 +47,9 @@ article {
   background-color: rgba(33, 39, 43,0.8);
 
   border-width: medium;
-  border-color: #0b0b0b;
+  border-color: #444444;
   border-style: solid;
-  border-radius: 3px;
+  border-radius: 6px;
 
   padding-left: 3%;
   padding-right: 3%;
