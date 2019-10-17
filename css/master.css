@@ -18,6 +18,7 @@ body{
   color: white;
   background-color: #0b0b0b;
   margin-bottom: 50px;
+  font-family: myFirstFont;
 }
 
 .head h1{
@@ -26,9 +27,6 @@ body{
   margin: 0;
 }
 
-.head h2{
-  margin-bottom: 0px;
-}
 
 .foot{
   background-color: #0b0b0b;
