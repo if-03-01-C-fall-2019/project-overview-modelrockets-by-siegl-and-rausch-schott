@@ -9,13 +9,13 @@ body{
   margin-right: 0px;
   margin-bottom: 0px;
 
+  background: url(../bg-img.jpg);
+  background-size: cover;
+
   background-repeat: no-repeat;
   background-attachment: fixed;
 
   font-family: 'myFont';
-
-  background: url(../bg-img.jpg);
-  background-size: cover;
 }
 
 .head {
