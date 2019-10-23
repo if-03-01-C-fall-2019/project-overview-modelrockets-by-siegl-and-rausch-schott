@@ -13,6 +13,9 @@ body{
   background-attachment: fixed;
 
   font-family: 'myFont';
+
+  background: url(../bg-img.jpg);
+  background-size: cover;
 }
 
 .head {
