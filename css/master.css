@@ -1,13 +1,4 @@
 @font-face {
-    font-family: 'comfortaaregular';
-    src: url('font/comfortaa-regular-webfont.woff2') format('woff2'),
-         url('font/comfortaa-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
   font-family: 'myFont';
   src: url('../Comfortaa-Regular.ttf');
 }
@@ -20,6 +11,8 @@ body{
 
   background-repeat: no-repeat;
   background-attachment: fixed;
+
+  font-family: 'myFont';
 }
 
 .head {
@@ -38,6 +31,8 @@ body{
 
 
 .foot{
+  font-family: 'myFont';
+  letter-spacing: normal;
   background-color: #0b0b0b;
   color:white;
   padding-top: 15px;
@@ -69,6 +64,7 @@ article {
 }
 
 article h3{
+  color: orange;
   font-size: 25px;
 }
 
