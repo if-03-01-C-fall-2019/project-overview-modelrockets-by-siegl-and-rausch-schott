@@ -95,6 +95,8 @@ article img {
 article li{
   font-size: 20px;
   color: #f1232b;
+  list-style-image: url(../img/elonmusk2.png);
+
 }
 
 .disclaimer {
