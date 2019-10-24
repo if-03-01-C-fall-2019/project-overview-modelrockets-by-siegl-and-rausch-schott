@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'myFont';
+  font-family: 'comfortaa';
   src: url('../Comfortaa-Regular.ttf');
 }
 
@@ -15,7 +15,7 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
 
-  font-family: 'myFont';
+  font-family: 'comfortaa';
 }
 
 .head {
@@ -23,7 +23,7 @@ body{
   color: white;
   background-color: #0b0b0b;
   margin-bottom: 50px;
-  font-family: 'myFont';
+  font-family: 'comfortaa';
 }
 
 .head h1{
@@ -34,7 +34,7 @@ body{
 
 
 .foot{
-  font-family: 'myFont';
+  font-family: 'comfortaa';
   letter-spacing: normal;
   background-color: #0b0b0b;
   color:white;
